@@ -20,7 +20,7 @@
 <a href="https://twitter.com/mohdshibran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdshibran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohdshibransajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdshibransajid" height="30" width="40" /></a>
 <a href="https://instagram.com/mohd.shibran12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd.shibran12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mohdshibran005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mohdshibran005" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mohdshibran005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohdshibran005" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
