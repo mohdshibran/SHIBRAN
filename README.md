@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI ML**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **CP**
 
 - 🤝 I’m looking for help with **Back-end development**
 
